@@ -1,0 +1,11 @@
+{
+    "name": "Python: Current File",
+    "type": "python",
+    "request": "launch",
+    "env": {
+        "DOPPLER_ENV": "1"
+    },
+    "program": "${file}",
+    "console": "integratedTerminal",
+    "justMyCode": true
+}

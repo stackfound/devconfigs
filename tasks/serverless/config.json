@@ -1,0 +1,9 @@
+{
+    "label": "[CFG] serverless",
+    "type": "shell",
+    "command": "bash .devcontainer/configs/serverless/scripts/serverless-setup.sh",
+    "presentation": {
+        "reveal": "always",
+        "panel": "new"
+    }
+}
