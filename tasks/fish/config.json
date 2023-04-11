@@ -1,0 +1,12 @@
+{
+    "label": "[INT] terminal",
+    "type": "process",
+    "command": "fish",
+    "isBackground": true,
+    "problemMatcher": [],
+    "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "echo": false
+    }
+}
