@@ -1,0 +1,9 @@
+{
+    "label": "[CFG] dotbot",
+    "type": "shell",
+    "command": "",
+    "presentation": {
+        "reveal": "always",
+        "panel": "new"
+    }
+}
