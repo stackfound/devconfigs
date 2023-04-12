@@ -1,0 +1,9 @@
+{
+    "label": "[CFG] commit-hooks",
+    "type": "shell",
+    "command": "pre-commit install",
+    "presentation": {
+        "reveal": "always",
+        "panel": "new"
+    }
+}
