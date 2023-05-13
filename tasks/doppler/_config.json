@@ -1,0 +1,9 @@
+{
+  "label": "[CFG] Doppler",
+  "type": "shell",
+  "command": "",
+  "presentation": {
+    "reveal": "always",
+    "panel": "new"
+  }
+}
